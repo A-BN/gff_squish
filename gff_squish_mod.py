@@ -3,7 +3,7 @@
 """
 GFF SQUISHER!
 
-@author: Oh Putain
+@author: Oh Purin
 @email: ablaglou@cestcertain.org
 @project: https://github.com/ab-n
 """
